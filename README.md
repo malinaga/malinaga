@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malina</h1>
 <h3 align="center">I'm a apprentice from Switzerland</h3>
 
-- I'm currently learning **to programm**
+- I'm currently learning **how to programm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
