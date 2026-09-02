@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malina</h1>
-<h3 align="center">I'm a apprentice from Switzerland</h3>
+<h3 align="center">I'm an apprentice from Switzerland</h3>
 
 - I'm currently learning **how to programm**
 
